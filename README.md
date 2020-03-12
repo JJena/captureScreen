@@ -1,4 +1,4 @@
-# captureScreen
+# spySnip
 
 Simple java project to take screenshot of your entire desktop for X duration in Y path at Z frequency
 
