@@ -26,9 +26,9 @@ Steps to follow:
 
 6 - If you screen is partially captured, change the screen size multiplier in the source code (see the code comments)
 
-![Alt text](/screenCapture/Untitled.jpg?raw=true "Screenshot1")
-![Alt text](/screenCapture/Untitled3.jpg?raw=true "Screenshot2")
-![Alt text](/screenCapture/Untitled2.jpg?raw=true "Screenshot3")
+![Alt text](/Untitled.jpg?raw=true "Screenshot1")
+![Alt text](/Untitled3.jpg?raw=true "Screenshot2")
+![Alt text](/Untitled2.jpg?raw=true "Screenshot3")
 
 
 Thanks and happy snipping
