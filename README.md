@@ -26,9 +26,10 @@ Steps to follow:
 
 6 - If you screen is partially captured, change the screen size multiplier in the source code (see the code comments)
 
-![Alt text](/blob/master/screenCapture/Untitled.png?raw=true "Screenshot1")
-![Alt text](/blob/master/screenCapture/Untitled3.jpg?raw=true "Screenshot2")
-![Alt text](/blob/master/screenCapture/Untitled2.jpg?raw=true "Screenshot3")
+
+![Untitled](https://user-images.githubusercontent.com/19985725/76488239-77b3f180-63ea-11ea-8b48-b4beac783de7.png)
+![Untitled3](https://user-images.githubusercontent.com/19985725/76488249-7f739600-63ea-11ea-80c8-6fe9ba8427ef.png)
+![Untitled2](https://user-images.githubusercontent.com/19985725/76488245-7be00f00-63ea-11ea-81bd-d474c16e16d1.png)
 
 
 Thanks and happy snipping
