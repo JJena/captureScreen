@@ -4,8 +4,8 @@ Simple java project to take screenshot of your entire desktop for X duration in 
 
 ***************************************************************************************
 This project helps you to take screenshot of your desktop in stealth/normal mode
-You just need JDK 1.8 or above to run the attached JAR file
-If you need more features, please use the source code to further optimize this project.
+\nYou just need JDK 1.8 or above to run the attached JAR file
+\nIf you need more features, please use the source code to further optimize this project.
 ***************************************************************************************
 
 Steps to follow:
